@@ -1,0 +1,15 @@
+.notificacion {
+    background-color: #dff0d8; /* Un color de fondo verde claro, por ejemplo */
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #3c763d; /* Un borde verde oscuro, por ejemplo */
+    color: #3c763d; /* Un color de texto verde oscuro, por ejemplo */
+}
+
+.no-notificacion {
+    background-color: #e9c7dc; /* Un color de fondo rojo claro, por ejemplo */
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #853180; /* Un borde rojo oscuro, por ejemplo */
+    color: #000000; /* Un color de texto rojo oscuro, por ejemplo */
+}

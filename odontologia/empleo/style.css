@@ -1,0 +1,34 @@
+body {
+    background-color: #545454;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.form-multipaso {
+    background-color: rgb(252, 252, 252);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.form-multipaso h2 {
+    margin-bottom: 20px;
+}
+
+.form-multipaso label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.form-multipaso input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+}
+
+.form-multipaso button {
+    margin-top: 10px;
+}
